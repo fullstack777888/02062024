@@ -1,0 +1,23 @@
+.my-button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+  
+  .my-button.primary {
+    background-color: #4CAF50; /* Green */
+  }
+  
+  .my-button.secondary {
+    background-color: #008CBA; /* Blue */
+  }
+  
+  /* Add more variants as needed */
